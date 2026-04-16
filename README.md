@@ -13,7 +13,7 @@ April 2026
 ---
 
 ## 📊 Project Presentation  
-👉 [View Presentation]([https://app.powerbi.com/groups/me/reports/084290a4-700a-4f0b-8715-31f33b50ea6a/7e7cf4e8708ac7091eeb?experience=power-bi&clientSideAuth=0](https://www.canva.com/design/DAHG6sfgg3Y/q038pkZ5RfW5bZiTO5BksQ/edit)  
+👉 [View Presentation]([https://app.powerbi.com/groups/me/reports/084290a4-700a-4f0b-8715-31f33b50ea6a/7e7cf4e8708ac7091eeb?experience=power-bi&clientSideAuth=0](https://www.canva.com/design/DAHG6sfgg3Y/q038pkZ5RfW5bZiTO5BksQ/edit))
 👉 [Medium Article](https://medium.com/@stuck.husseim/when-the-sky-gets-too-crowded-what-our-satellite-data-revealed-5b565116b5cb)  
 
 ---
