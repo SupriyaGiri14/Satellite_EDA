@@ -15,6 +15,7 @@ April 2026
 ## 📊 Project Presentation  
 👉 [View Presentation](https://www.canva.com/design/DAHG6sfgg3Y/q038pkZ5RfW5bZiTO5BksQ/edit)
 👉 [Medium Article](https://medium.com/@stuck.husseim/when-the-sky-gets-too-crowded-what-our-satellite-data-revealed-5b565116b5cb)  
+👉 [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/017b801a-10c3-498b-a75e-c7620e6643d0/49e6e68965d0455ad031?experience=power-bi&clientSideAuth=0)  
 
 ---
 
