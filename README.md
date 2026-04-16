@@ -1,5 +1,5 @@
 # 🚀 Satellite Exploratory Data Analysis (EDA)  
-<img width="253" height="256" alt="logo" src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" />
+<img width="100" height="60" alt="logo" src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" />
 
 ---
 
