@@ -58,8 +58,7 @@ The dataset includes information such as:
 ## 🛠️ Technologies Used  
 
 - Python 🐍  
-- Pandas  
-- NumPy  
+- Pandas   
 - Power BI    
 - Jupyter Notebook  
 
@@ -91,13 +90,21 @@ Assess long-term risks for space missions.
 
 ## 📂 Project Structure  
 
-Satellite_EDA/  
-│  
-├── Final_Satellite_Data_Analysis.ipynb  
-├── cleaned_dataset.csv  
-├── dashboard.pbix  
-├── Satellite.pdf  
-└── README.md  
+Satellite_EDA/
+│
+├── dashboard/
+│   └── Satellite_EDA_Dashboard_Final.pbix
+│
+├── input/
+│   └── satellite.csv
+│
+├── output/
+│   └── cleaned_satellite_data.csv
+│
+├── notebook/
+│   └── Final_Satellite_Data_Analysis.ipynb
+│
+└── README.md 
 
 ---
 
